@@ -1,7 +1,3 @@
-Checked: 2026-04-18
-Format: `*` = any number of any characters, `!` = exact package exclusion
-Source: cleaned from the original list; obvious foreign, test, and unrelated entries removed
-
 # Government apps
 ais.artek
 app.muctr.flutter
