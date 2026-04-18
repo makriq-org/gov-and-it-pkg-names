@@ -1,4 +1,3 @@
-# Government apps
 ais.artek
 app.muctr.flutter
 com.AlowpForUniver.AdminVSOSH
@@ -187,8 +186,6 @@ team.rtds.checkcontrol
 tech.clink.emias.emiasqrcode
 ugra.hmao.*
 website.copyandpaste.MFC*
-
-# Russian IT majors apps
 alfa.life.*
 club.chizhik
 com.allgoritm.youla
