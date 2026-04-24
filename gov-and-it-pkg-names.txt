@@ -286,7 +286,6 @@ ru.tander.*
 ru.tbank.*
 ru.tele2.*
 ru.tinkoff.*
-ru.vk.hrtek
 ru.vk.*
 ru.vtb.*
 ru.vtb24.*
