@@ -266,6 +266,7 @@ ru.mvideo.*
 ru.mvm.eldo
 ru.netbynet.app.personal_cabinet
 ru.ok.*
+ru.oneme.app
 ru.ozon.*
 ru.plus.bookmate
 ru.psbank.*
